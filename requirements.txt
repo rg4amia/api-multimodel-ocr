@@ -1,0 +1,5 @@
+flask
+flask-sqlalchemy
+pillow
+gradio_client
+flasgger
